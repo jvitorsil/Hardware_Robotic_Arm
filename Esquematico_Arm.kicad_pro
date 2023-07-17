@@ -124,7 +124,9 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "lib_symbol_issues|622300|1003300|cd6e607f-e3e2-4b8d-9eeb-76ccd2a70b7b|00000000-0000-0000-0000-000000000000"
+    ],
     "meta": {
       "version": 0
     },
