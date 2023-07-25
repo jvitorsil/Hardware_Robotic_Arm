@@ -2,4 +2,8 @@
   (lib (name "A4988_STEPPER_MOTOR_DRIVER_CARRIER")(type "KiCad")(uri "${KIPRJMOD}/Libraries/A4988_STEPPER_MOTOR_DRIVER_CARRIER/A4988_STEPPER_MOTOR_DRIVER_CARRIER.kicad_sym")(options "")(descr ""))
   (lib (name "Driver_Conversor_Nivel_Logico")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Driver_Conversor_Nivel_Logico.kicad_sym")(options "")(descr ""))
   (lib (name "Regulador_Tensao")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Regulador_Tensao.kicad_sym")(options "")(descr ""))
+  (lib (name "Driver_Nivel_Logico")(type "KiCad")(uri "C:/Users/joaov/OneDrive - Universidade Federal de Uberlândia/PET/HOOK/Esquematico/Esquematico_Arm/Libraries/Driver_Nivel_Logico.kicad_sym")(options "")(descr ""))
+  (lib (name "driver_conversor3_3_5_1")(type "KiCad")(uri "C:/Users/joaov/OneDrive - Universidade Federal de Uberlândia/PET/HOOK/Esquematico/Esquematico_Arm/Libraries/driver_conversor3_3_5_1.kicad_sym")(options "")(descr ""))
+  (lib (name "esp32-devkit-v1")(type "KiCad")(uri "${KIPRJMOD}/Libraries/esp32-devkit-v1.kicad_sym")(options "")(descr ""))
+  (lib (name "mini_ponte_h_l298n")(type "KiCad")(uri "${KIPRJMOD}/Libraries/mini_ponte_h_l298n.kicad_sym")(options "")(descr ""))
 )
